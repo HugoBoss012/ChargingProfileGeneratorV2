@@ -1,0 +1,17 @@
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\bin\Debug\net6.0\ChargingProfileGenerator.exe
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\bin\Debug\net6.0\ChargingProfileGenerator.deps.json
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\bin\Debug\net6.0\ChargingProfileGenerator.runtimeconfig.json
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\bin\Debug\net6.0\ChargingProfileGenerator.dll
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\bin\Debug\net6.0\ChargingProfileGenerator.pdb
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.csproj.AssemblyReference.cache
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.AssemblyInfoInputs.cache
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.AssemblyInfo.cs
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.csproj.CoreCompileInputs.cache
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.csproj.CopyComplete
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.dll
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\refint\ChargingProfileGenerator.dll
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.pdb
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ChargingProfileGenerator.genruntimeconfig.cache
+C:\Users\gonca\Downloads\ChargingScheduleGenerator-master\ChargingProfileGenerator\ChargingScheduleGenerator\obj\Debug\net6.0\ref\ChargingProfileGenerator.dll
