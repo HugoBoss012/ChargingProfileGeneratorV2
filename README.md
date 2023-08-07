@@ -47,5 +47,5 @@ When you run the program you will be presented with a console displaying 3 thing
 
 The above data is then writen to a Json file called the OutputJsonFile.
 
-If you wish to see how the program performs when presented with different DateTimes as well as Tariff rates then you can do this by editing
+If you wish to see how the program performs when presented with different DateTimes, Tariff rates and car data then you can do this by editing
 the InputJsonFile data and then rerunning the program.
